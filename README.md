@@ -27,6 +27,7 @@
 [1.两数之和](https://github.com/Silence-ye/LeetCode/blob/master/problems/1.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
 
 #### 中等难度
+[2.两数相加](https://github.com/Silence-ye/LeetCode/blob/master/problems/2.%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.md)
 
 #### 困难难度
 
